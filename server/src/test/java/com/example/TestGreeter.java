@@ -12,6 +12,7 @@ public class TestGreeter {
 
   private Greeter greeter;
 
+  // comment added
   @Before
   public void setup() {
     greeter = new Greeter();
